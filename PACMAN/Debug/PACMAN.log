@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\along\source\repos\PACMAN\PACMAN\misc.h(108,22): warning C4309: '=': truncation of constant value
+C:\Users\along\source\repos\PACMAN\PACMAN\misc.h(115,22): warning C4309: '=': truncation of constant value
+C:\Users\along\source\repos\PACMAN\PACMAN\misc.h(163,29): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+C:\Users\along\source\repos\PACMAN\PACMAN\misc.h(163,32): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+C:\Users\along\source\repos\PACMAN\PACMAN\misc.h(173,14): warning C4244: 'return': conversion from 'double' to 'const int', possible loss of data
+C:\Users\along\source\repos\PACMAN\PACMAN\misc.h(95): warning C4715: 'menu': not all control paths return a value
+  PACMAN.vcxproj -> C:\Users\along\source\repos\PACMAN\Debug\PACMAN.exe
